@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">P3Virgil_S</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_the_log">TheLog</string>
+    <string name="game_number">Game#---Winner</string>
+    <string name="winner">Winner</string>
+    <string name="log_text_2">LogText2</string>
+
+</resources>
